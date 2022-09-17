@@ -1,6 +1,8 @@
 # pl-pgsql
 PostgreSQL PL/pgsql
 
+<a href="https://stackoverflow.com/search?q=%5Bplpgsql%5Duser%3A10726850">Some of my Stackoverflow contributions</a>
+
 ## links
 
 <a href=https://www.postgresql.org/docs/current/plpgsql.html>Official documentation</a>
